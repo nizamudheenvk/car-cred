@@ -1,0 +1,16 @@
+{
+  "uploadvideos": [
+    {
+      "id": "d864",
+      "Name": "polo GT",
+      "imgUrl": "https://gomechanic.in/blog/wp-content/uploads/2020/04/20200304071236_2019-Polo-GT-front-stat.jpg",
+      "price": "2000000"
+    },
+    {
+      "id": "08a8",
+      "Name": "porsche 911 gt3",
+      "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/911/11757/1717680690776/front-left-side-47.jpg",
+      "price": "1000000"
+    }
+  ]
+}
